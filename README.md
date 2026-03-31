@@ -91,7 +91,7 @@ Set up professional profiles on the following platforms:
 - **Part A:** Completed a beginner challenge on **HackerRank / CodeChef**
 - **Part B:** Built a 5-question **Digital Literacy Awareness Quiz** using Google Forms
 
-🔗 Google Form Quiz Link: [Click Here](https://forms.gle/yQPm5nLnJwKc9iog7)
+🔗 Google Form Quiz Link: [Click Here](https://docs.google.com/forms/d/e/1FAIpQLSdC_vjekPiLvNIx9HImB2iZ2PeS2rY32NH-vvExEAmXLbcNsw/viewform?usp=publish-editor)
 
 📂 See: [`task-3-platforms/`](./task-3-platforms/)
 
